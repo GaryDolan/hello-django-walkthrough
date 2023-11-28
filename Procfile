@@ -1,1 +1,1 @@
-web: gunicorn HELLO-DJANGO-WALKTHROUGH.wsgi:application
+web: gunicorn djano_todo.wsgi
