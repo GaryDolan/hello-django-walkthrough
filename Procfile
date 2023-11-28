@@ -1,1 +1,1 @@
-web: gunicorn hello-django-walkthrough.wsgi:application
+web: gunicorn HELLO-DJANGO-WALKTHROUGH.wsgi:application
